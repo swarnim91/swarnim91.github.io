@@ -1,0 +1,31 @@
+#background {
+    height: 200px;
+    background-color: black;
+}
+
+
+
+#navbar1 {
+    background-color: green;
+    height: 35px;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+    margin-top: 0px;
+    fade-left: 10px;
+    fade-right;
+    
+}
+#one {
+    margin-bottom: 3px;
+}
+.trapezoid {
+    border-bottom: 50px solid white;
+    border-right: 20px solid;
+    border-left: 40px solid;
+    border-top: 70px;
+    width: 200px;
+    
+    
+}
